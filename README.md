@@ -33,7 +33,7 @@ A civic-tech platform designed to bring local government closer to the people by
 ---
 
 ## 📦 Getting Started
-
+```
 ### 1. Clone the repository
 
 ```bash
